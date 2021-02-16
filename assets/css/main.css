@@ -3115,7 +3115,7 @@ input[type="button"],
 
     .spotlight.bottom .content {
         border-top-width: 0.35em;
-        bottom: 0;
+        bottom: -5px;
     }
 
     .spotlight.left .content, .spotlight.right .content {
